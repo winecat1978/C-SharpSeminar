@@ -1,0 +1,15 @@
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\bin\Debug\net6.0\Example007_inverse_num.exe
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\bin\Debug\net6.0\Example007_inverse_num.deps.json
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\bin\Debug\net6.0\Example007_inverse_num.runtimeconfig.json
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\bin\Debug\net6.0\Example007_inverse_num.dll
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\bin\Debug\net6.0\Example007_inverse_num.pdb
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\Example007_inverse_num.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\Example007_inverse_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\Example007_inverse_num.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\Example007_inverse_num.AssemblyInfo.cs
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\Example007_inverse_num.csproj.CoreCompileInputs.cache
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\Example007_inverse_num.dll
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\refint\Example007_inverse_num.dll
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\Example007_inverse_num.pdb
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\Example007_inverse_num.genruntimeconfig.cache
+C:\Users\mob19\Seminar1_C#\Example007_inverse_num\obj\Debug\net6.0\ref\Example007_inverse_num.dll
