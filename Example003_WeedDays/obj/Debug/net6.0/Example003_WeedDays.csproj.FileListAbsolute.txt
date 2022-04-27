@@ -1,0 +1,15 @@
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\bin\Debug\net6.0\Example003_WeedDays.exe
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\bin\Debug\net6.0\Example003_WeedDays.deps.json
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\bin\Debug\net6.0\Example003_WeedDays.runtimeconfig.json
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\bin\Debug\net6.0\Example003_WeedDays.dll
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\bin\Debug\net6.0\Example003_WeedDays.pdb
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\Example003_WeedDays.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\Example003_WeedDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\Example003_WeedDays.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\Example003_WeedDays.AssemblyInfo.cs
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\Example003_WeedDays.csproj.CoreCompileInputs.cache
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\Example003_WeedDays.dll
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\refint\Example003_WeedDays.dll
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\Example003_WeedDays.pdb
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\Example003_WeedDays.genruntimeconfig.cache
+C:\Users\mob19\Seminar1_C#\Example003_WeedDays\obj\Debug\net6.0\ref\Example003_WeedDays.dll
