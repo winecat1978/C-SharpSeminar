@@ -10,4 +10,4 @@ do
     opposite_num = opposite_num + 1;
 } while (opposite_num < num);
 
-if (opposite_num == num) Console.WriteLine(" " + opposite_num + ".");
+if (opposite_num == num) Console.WriteLine(opposite_num + ".");
