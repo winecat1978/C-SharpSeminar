@@ -1,0 +1,3 @@
+﻿Console.WriteLine("Введите число, которое хотите возвести в квадрат: ");
+int number = Convert.ToInt32(Console.ReadLine()); // для того, чтобы консоль считала числа - использовать оператоор Convert.To...
+Console.WriteLine("Результат возведения в квадрат: "+ (int)(number * number));
