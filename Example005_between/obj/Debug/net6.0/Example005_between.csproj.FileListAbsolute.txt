@@ -1,0 +1,15 @@
+C:\Users\mob19\Seminar1_C#\Example005_between\bin\Debug\net6.0\Example005_between.exe
+C:\Users\mob19\Seminar1_C#\Example005_between\bin\Debug\net6.0\Example005_between.deps.json
+C:\Users\mob19\Seminar1_C#\Example005_between\bin\Debug\net6.0\Example005_between.runtimeconfig.json
+C:\Users\mob19\Seminar1_C#\Example005_between\bin\Debug\net6.0\Example005_between.dll
+C:\Users\mob19\Seminar1_C#\Example005_between\bin\Debug\net6.0\Example005_between.pdb
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\Example005_between.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\Example005_between.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\Example005_between.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\Example005_between.AssemblyInfo.cs
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\Example005_between.csproj.CoreCompileInputs.cache
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\Example005_between.dll
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\refint\Example005_between.dll
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\Example005_between.pdb
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\Example005_between.genruntimeconfig.cache
+C:\Users\mob19\Seminar1_C#\Example005_between\obj\Debug\net6.0\ref\Example005_between.dll
