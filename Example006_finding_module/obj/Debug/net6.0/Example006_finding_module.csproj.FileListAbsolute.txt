@@ -1,0 +1,15 @@
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\bin\Debug\net6.0\Example006_finding_module.exe
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\bin\Debug\net6.0\Example006_finding_module.deps.json
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\bin\Debug\net6.0\Example006_finding_module.runtimeconfig.json
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\bin\Debug\net6.0\Example006_finding_module.dll
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\bin\Debug\net6.0\Example006_finding_module.pdb
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\Example006_finding_module.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\Example006_finding_module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\Example006_finding_module.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\Example006_finding_module.AssemblyInfo.cs
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\Example006_finding_module.csproj.CoreCompileInputs.cache
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\Example006_finding_module.dll
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\refint\Example006_finding_module.dll
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\Example006_finding_module.pdb
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\Example006_finding_module.genruntimeconfig.cache
+C:\Users\mob19\Seminar1_C#\Example006_finding_module\obj\Debug\net6.0\ref\Example006_finding_module.dll

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mob19\\Seminar1_C#\\Example006_finding_module\\Example006_finding_module.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mob19\\Seminar1_C#\\Example006_finding_module\\Example006_finding_module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mob19\\Seminar1_C#\\Example006_finding_module\\Example006_finding_module.csproj",
+        "projectName": "Example006_finding_module",
+        "projectPath": "C:\\Users\\mob19\\Seminar1_C#\\Example006_finding_module\\Example006_finding_module.csproj",
+        "packagesPath": "C:\\Users\\mob19\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mob19\\Seminar1_C#\\Example006_finding_module\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mob19\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
